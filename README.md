@@ -39,7 +39,6 @@ All assets are represented inside a Tezos FA2 multi-asset smart contract to guar
 300% badass.
 
 Video Demonstration: **[https://youtu.be/QgI1jBgc-pI](https://youtu.be/QgI1jBgc-pI)**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QgI1jBgc-pI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Download: [https://ivan-tigan.itch.io/reckless](https://ivan-tigan.itch.io/reckless)
 
