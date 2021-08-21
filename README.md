@@ -38,9 +38,19 @@ All assets are represented inside a Tezos FA2 multi-asset smart contract to guar
 
 300% badass.
 
-Video Demonstration: **[https://youtu.be/QgI1jBgc-pI](https://youtu.be/QgI1jBgc-pI)**
+Video Demonstration: [https://youtu.be/QgI1jBgc-pI](https://youtu.be/QgI1jBgc-pI)
+
+Website: [http://higher-order-games.net:1235/index.html](http://higher-order-games.net:1235/index.html)
 
 Download: [https://ivan-tigan.itch.io/reckless](https://ivan-tigan.itch.io/reckless)
+
+Smart Contract: KT1Mw7E46UuQk62imBoYzTSUCpuz3LLXZ7qo
+
+**Gameplay**
+Combat in Reckless involves throwing axe to cut off the limbs of your opponent. The axes ricochet off walls and mercilessly cut everything in their path including the original thrower. Holding down the throw button forces you to stay still but charges up an incredibly powerful throw. Pressing the throw button just before an axe slices you allows you to catch it and instantly boost its power if you decide to throw it back. If you get cut by an axe you lose on of your limbs (left arm, right arm, left leg, right leg, head). You need arms to throw axes, you need legs to walk and dash quickly, you need your head to stay alive. When a limb is on the ground you can go, pick it up and attach it to yourself. The head can fall only if all of your other limbs have already been cut. Losing your head is game over. Dashing has multiple uses - you can defensively dodge out of danger's way. You can offensively dash towards you opponent to shorten the distance. You can even dash towards the trajectory of an axe to intercept it, catch it and throw it even stronger. A skilled player can craft a whirlwind of deadly axes and combo down their opponent.
+
+Matches can be played with 2,3,4 players and tournaments can be played with up to 16 players.
+THe most unique feature of reckless; however, is the ability to do invasions. You can spy on an arena and decide to hop in when the fighter are harmed to finish the off and earn big rewards. These mechanic create tense and rewarding situations where the best players have the chance to overcome all odds.
 
 **Game Technology:**
 
@@ -58,7 +68,10 @@ The Reckless Token is inflationary and is minted as a reward for players who pla
  \
 Other items are minted once and them have a constant supply. For example, Bob draws an axe, make a proposal on the blockchain for some quantity of this axe to be minted. Once approved, the initial supply is distributed based on Bob’s proposal. The new owners are free to use or sell their new assets in the auction house. All metadata and images are stored on the sia skynet - a decentralized storage platform similar to IPFS but with incentive mechanisms. \
  \
-The goal is to provide an infrastructure for artists and players to have a mutually beneficial interaction.
+Players can sell assets in extremely flexible way including as bundles and even mystery boxes.
+
+Our goal is to provide an infrastructure for artists and players to have a flexible, fund, and mutually beneficial interaction.
+
 
 **Roadmap:**
 
