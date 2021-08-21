@@ -95,6 +95,6 @@ Governance for item proposals and other game features.
 General Tokenized Game Mods - the ability to create a mod/dlc, propose it on the blockchain and either sell it or get rewards when someone plays it
 
 **Made by Higher Order Games**
-Ivan Tsoninski - code
-Mircea-Andrei Radu - code
-Liutauras Kavaliauskas - art
+ - Ivan Tsoninski - code
+ - Mircea-Andrei Radu - code
+ - Liutauras Kavaliauskas - art
