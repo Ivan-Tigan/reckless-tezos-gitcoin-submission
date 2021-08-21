@@ -1,0 +1,31 @@
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="stylesheet" type="text/css" href="./app.css" />
+    <title>Taquito Boilerplate App</title>
+  </head>
+  <body>
+    <h1>TezosPay</h1>
+    <div id="dialog">
+      <div id="header">Higher Order Games</div>
+      <div id="content">
+        <div id="">
+          <!-- <input id="address-input" type="text" id="address" placeholder="Enter wallet address" /> -->
+          <ol>
+            <li><input type="radio" id="100" name="buy_quantity" value="1" > <label for="100">1tez - 100hog</label></li>
+            <li><input type="radio" id="300" name="buy_quantity" value="2.5"><label for="300">&nbsp;2.5tez - 300hog</label></li>
+            <li><input type="radio" id="700" name="buy_quantity" value="5" checked="true"> <label for="700">5tez - 700hog</label></li>
+          </ol>
+
+          <a id="show-balance-button" href="#">Buy</a>
+        </div>
+        <div id="error-message" class="hide"></div>
+        <div id="balance-output" class="show"><span id="balance"></span></div>
+      </div>
+    </div>
+    <div id="footer">
+      <!-- <img src="../assets/built-with-taquito.png" /> -->
+    </div>
+    <script src="main.ts"></script>
+  </body>
+</html>

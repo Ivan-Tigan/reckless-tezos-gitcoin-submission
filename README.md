@@ -48,6 +48,8 @@ The game runs with a very decentralized and fast algorithm developed by us, call
 
 A very short explanation is that a central server is a sort of oracle for time, randomness, and input synchronization between the players. An important thing to note is that this server does not have any knowledge of the game. The game itself runs on each player’s machine, which makes it much more decentralized than standard Client-Server architectures.
 
+Hermes is explained in depth in the original paper - [Hermes: Effective Real-Time Online Video Game Synchronization](https://drive.google.com/file/d/1SrcdhGj6ZgR6Ixq-6w3ICKykAN7wVkss/view?usp=sharing)
+
 **Crypto Technology:**
 
 The assets used in the game include currencies, currently just one - Reckless Tokenx (REX), and other tokens representing customization items (axes, heads, torsos, legs, arms ). The tokens are implemented via an multiasset smart contract conforming to the FA2 interface according to the tzip-12 standard.
@@ -92,3 +94,7 @@ Governance for item proposals and other game features.
 
 General Tokenized Game Mods - the ability to create a mod/dlc, propose it on the blockchain and either sell it or get rewards when someone plays it
 
+**Made by Higher Order Games**
+Ivan Tsoninski - code
+Mircea-Andrei Radu - code
+Liutauras Kavaliauskas - art
